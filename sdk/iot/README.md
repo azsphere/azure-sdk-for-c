@@ -4,11 +4,11 @@ Official Embedded C clients for Azure IoT Hub and Device Provisioning Service.
 
 ## Getting started
 
-TBD.
+TBD..
 
 ### Prerequisites
 
-TBD.
+TBD..
 
 ## Examples
 
